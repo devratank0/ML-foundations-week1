@@ -80,8 +80,11 @@ After completing this assignment, you will:
 - Perform statistical analysis and hypothesis testing
 - Understand probability theory and distributions for ML
 
-## 👤 Author
-Machine Learning Foundations Student
+## Author
+Devratan  
+PGDM (Business Analytics and Marketing)
+Lloyd Business School  
+Celebal Technologies Data Science Intern
 
 ## 📝 License
 This assignment is for educational purposes.
