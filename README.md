@@ -83,8 +83,9 @@ After completing this assignment, you will:
 ## Author
 Devratan  
 PGDM (Business Analytics and Marketing)
-Lloyd Business School  
-Celebal Technologies Data Science Intern
+Lloyd Business School 
+Data Scientist,
+Celebal Technologies 
 
 ## 📝 License
 This assignment is for educational purposes.
